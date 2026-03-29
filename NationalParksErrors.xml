@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark>
+<NationalPark xmlns="http://www.nationalparks.com"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.nationalparks.com https://dannyc2005.github.io/CSE445Assignment4/NationalParks.xsd">
   <NationalPark Rating="5">
-    <Name>Grand Canyon National Park</Name>
+    <Name>Grand Canyon</Name>
     <Name>Grand Canyon NP</Name>
     <Phone>928-638-7888</Phone>
     <Address NearestAirport="Flagstaff Pulliam Airport">
